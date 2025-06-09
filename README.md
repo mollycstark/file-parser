@@ -1,4 +1,4 @@
-# HomeVision .env Archive Parser
+# .env Archive Parser
 
 This tool parses a proprietary `.env` file format to bundle metadata and embedded files (like images and XML documents). It identifies internal structure, extracts metadata, and writes contained files to disk.
 

@@ -1,5 +1,5 @@
 """
-Parses a proprietary .env binary archive format used by HomeVision.
+Parses a proprietary .env binary archive format.
 
 Each unit in the file follows this structure:
 1. 8-byte header (nonstandard, logged but ignored)
